@@ -853,8 +853,6 @@ img {
     top: 1080px;
     left: auto;
     right: -72px;
-    -webkit-transform: rotateZ(180deg);
-            transform: rotateZ(180deg);
   }
   .program__decor {
     display: block;
